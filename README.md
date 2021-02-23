@@ -8,8 +8,8 @@ Because I needed someway to talk to my friends over Discord using text-to-speech
 ## Install
 
 1. Download and install VB-Cable Virtual Audio Device (https://vb-audio.com/Cable/)
-2. Make sure the virtual cable is named "CABLE Output" in your sound settings (if not, either rename it to this or change in the script to match)
+2. Make sure the virtual cable is named "CABLE Input" in the Playback tab of your sound settings (if not, either rename it to this or change in the script to match)
 3. Set "CABLE Output" as your Input Device in Discord.
 4. Run script, type message, hit enter.
 
-**NOTE:** You will not hear what you type unless you select "Listen to this device" in the virtual cable's properties.
+**NOTE:** You will not hear what you type unless you select "Listen to this device" in the "CABLE Output" properties in the Recording tab of your sound settings.
