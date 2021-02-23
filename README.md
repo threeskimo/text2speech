@@ -1,5 +1,5 @@
 # text2speech
-A VBscript that uses the Microsoft Speech API to send a message you type to a virtual audio cable (installed separately).
+A VBscript that uses the Microsoft Speech API (SAPI) to sends user input as TTS to a virtual audio cable (installed separately).
 
 ## Why?
 
