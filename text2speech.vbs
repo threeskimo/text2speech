@@ -1,7 +1,7 @@
 Do
 
 Dim message, sapi
-message=InputBox("What do you want me to say?","RoboVoice")
+message=InputBox("What would you like me to say?","text2speech")
 
 If IsEmpty(message) Then
 	WScript.Quit 1
@@ -14,6 +14,7 @@ for i = 0 to sapi.GetAudioOutputs.Count - 1
      Set sapi.AudioOutput = sapi.GetAudioOutputs.item(i)
   End If
 next
+
 sapi.Speak message
 
 Loop
