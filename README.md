@@ -1,4 +1,4 @@
-# text2speech
+# text2speech.vbs
 A VBscript that uses the Microsoft Speech API (SAPI) to send TTS to a virtual audio cable (installed separately).
 
 ## Why?
