@@ -13,7 +13,7 @@ Because I needed someway to talk to my friends over Discord using text-to-speech
 4. Set "CABLE Output" as your Input Device in Discord (or any other app).
 5. Run script, type message, hit enter.
 
->**NOTE:** You will not hear what you type unless you select "Listen to this device" in the "CABLE Output" properties in the Recording tab of your sound settings.
+>**NOTE:** You might not be able to hear what you type unless you select "Listen to this device" in the "CABLE Output" properties in the Recording tab of your sound settings.
 
 ## Images
 ![text2speech](https://github.com/threeskimo/text2speech/blob/main/t2s.png?raw=true)
